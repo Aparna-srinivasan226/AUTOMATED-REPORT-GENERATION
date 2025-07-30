@@ -125,6 +125,10 @@ Finance: Quarterly performance summaries
 
 Education: Student results breakdown
 
+OUTPUT:
+
+[employee_report.pdf](https://github.com/user-attachments/files/21508819/employee_report.pdf)
+
 
 
 
